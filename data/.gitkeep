@@ -1,0 +1,8 @@
+nba-mlb-predictor/
+├── data/                <- For storing your scraped stats
+├── models/              <- For your prediction models
+├── notebooks/           <- For Google Colab notebooks
+├── streamlit_app/       <- For the web interface
+├── utils/               <- For scrapers and helper code
+├── requirements.txt     <- List of libraries you use
+└── README.md            <- Explains the project
